@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9ed605bcaa2755541ad9bc56601e510c, type: 3}
+  m_Name: hand_animator
+  m_EditorClassIdentifier: 
+  tagsData:
+  - tag: 4
+    name: grip
+    layer: 0
+    tagType: 3
+    crossFade: 0.02
+    isLockedSpeed: 0
+  - tag: 5
+    name: trigger
+    layer: 0
+    tagType: 3
+    crossFade: 0.02
+    isLockedSpeed: 0
